@@ -2,6 +2,7 @@
 
 Starter files for intro web design/development
 
+hi there. 
 STUDENTS: edit this file. Add text that describes your project. Include your name, web address, code/image citations, and any notes.
 
 Aliens image
